@@ -23,7 +23,7 @@ Testing vuln-00 can be done outside of Gauntlt by navigating to the webgoat/vuln
 	$ python exploit-vuln-31.py
 
 3) Create a new directory called CaseStudyVuln31 and clone the gauntlt repo in that directory. The path to the script is the following.     
-\t/home/hacker/CaseStudyVuln31/gauntlt/examples/webgoat/vuln-31/exploit-vuln-31.py
+\t /home/hacker/CaseStudyVuln31/gauntlt/examples/webgoat/vuln-31/exploit-vuln-31.py
 
 
 *This Gauntlt test was written by Tin Vo (tinnvo1101@gmail.com) and Uyviet Nguyen (uyviet.nguyen@utexas.edu) on 10 Dec 2015*
